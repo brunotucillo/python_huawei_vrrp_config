@@ -1,0 +1,3 @@
+quit
+display ip int b
+display cur
